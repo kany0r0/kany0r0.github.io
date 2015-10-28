@@ -1,6 +1,6 @@
 # Site settings
-title:       Pixyll
-email:       your_email@example.com
+title:       BadDuck
+email:       kenkanyush@gmail.com
 author:      John Otander
 description: "A simple, beautiful theme for Jekyll that emphasizes content rather than aesthetic fluff."
 baseurl:     ""
@@ -23,17 +23,7 @@ ajaxify_contact_form: false
 disqus_shortname:
 
 # Social icons
-github_username:
-bitbucket_username:
-stackoverflow_id:
-twitter_username:
-google_plus_id:
-linkedin_username:
-angellist_username:
-medium_id:
-bitcoin_url:
-paypal_url:
-flattr_button:
+github_username: kany0r0
 
 # Post sharing icons
 show_sharing_icons: false
@@ -50,7 +40,7 @@ share_stumbleupon: false
 share_hackernews: false
 
 # Build settings
-markdown:     kramdown
+markdown:    rdiscount 
 redcarpet:
   extensions: ['smart', 'tables', 'with_toc_data']
 permalink:    pretty
