@@ -1,10 +1,10 @@
 # Site settings
-title:       BadDuck
+title:       Anbu
 email:       kenkanyush@gmail.com
-author:      John Otander
+author:      Ken Kanyoro
 description: "A simple, beautiful theme for Jekyll that emphasizes content rather than aesthetic fluff."
 baseurl:     ""
-url:         "http://pixyll.com"
+url:         "http://github.com/kany0r0"
 date_format: "%b %-d, %Y"
 
 # Google services
