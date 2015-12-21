@@ -2,7 +2,7 @@
 layout:   post
 title:    Anbu
 date:     2015-12-01 23:37
-summary:  Welcome to my blog the Ugly Penguin, will tend to share my thoughts and opinions on tech ecosystem.
+summary:  Welcome to my blog Anbu that will serve as a future notepad to myself :-)
 ---
 
 Hello,
