@@ -2,7 +2,7 @@
 layout:  post
 title :  The Setup
 date:    2015-12-06 15:30:40
-summary: A look at how my system setup
+summary: A look at how my system is setup
 ---
 
 My current setup involves an Arch Linux operating system running on top of this an [i3 window titling manager](i3wm.org). Although a lot of configuration will be required in this setup, it will provide a base for a really fast minimal system.
