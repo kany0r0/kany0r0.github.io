@@ -23,4 +23,4 @@ Some other cool stuff
 * Wireshack - Network Protocol Analyzer
 * VirtualBox - Virtualization software
 
-![Screenshot](images/screen.png)
+![Screenshot]({{site.url}}/images/screen.png)
