@@ -23,4 +23,5 @@ Some other cool stuff
 * Wireshack - Network Protocol Analyzer
 * VirtualBox - Virtualization software
 
+i3 running on top of Arch :-)
 ![Screenshot]({{site.url}}/images/screen.png)
